@@ -1,0 +1,45 @@
+1024-033242.914 - 18707 - SR36OAO3Wg1Ptrhn - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810241540319462504]+log_level=[3]+opt=[0]
+1024-033242.930 - 18707 - SR36OAO3Wg1Ptrhn - MSG : PG_SERVER_CONN__SUCC
+1024-033242.940 - 18707 - SR36OAO3Wg1Ptrhn - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1024-033243.288 - 18707 - SR36OAO3Wg1Ptrhn - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1024-033243.288 - 18707 - SR36OAO3Wg1Ptrhn - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR36OAO3Wg1Ptrhnpay_method=PACAorder_no=ORDER201810241540319462504card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드card_no=9441170000007786mcht_taxno=1138521083mall_taxno=6050883331ca_order_id=ORDER201810241540319462504tno=18927404869013amount=8500card_mny=8500coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20181024033243van_apptime=20181024033243app_no=30001231bizx_numb=103001131quota=00noinf=Npg_txid=1024033243MP01CIB3TXHU0000000085000030001231use_point=0res_tax_flag=TG01res_tax_mny=7727res_free_mny=0res_vat_mny=773partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1join_cd=0000]
+1024-035850.498 - 19916 - SR36OAO3wo97OqTt - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810241540321078964]+log_level=[3]+opt=[0]
+1024-035850.504 - 19916 - SR36OAO3wo97OqTt - MSG : PG_SERVER_CONN__SUCC
+1024-035850.515 - 19916 - SR36OAO3wo97OqTt - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1024-035850.672 - 19916 - SR36OAO3wo97OqTt - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1024-035850.672 - 19916 - SR36OAO3wo97OqTt - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201810241540321078964tno=20181024411984van_txid=DP002018102476538340amount=136000res_tax_mny=123636res_free_mny=0res_vat_mny=12364res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79004861467613bankcode=BK11app_time=20181024035851van_apptime=20181024035851mall_taxno=6050883331va_date=20181031235959va_name=운영자]
+1024-040209.255 - 20405 - SR36OAO42997OqTt - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810241540321292750]+log_level=[3]+opt=[0]
+1024-040209.265 - 20405 - SR36OAO42997OqTt - MSG : PG_SERVER_CONN__SUCC
+1024-040209.275 - 20405 - SR36OAO42997OqTt - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1024-040209.427 - 20405 - SR36OAO42997OqTt - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1024-040209.427 - 20405 - SR36OAO42997OqTt - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201810241540321292750tno=20181024412062van_txid=DP002018102476538378amount=151000res_tax_mny=137272res_free_mny=0res_vat_mny=13728res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79004861512631bankcode=BK11app_time=20181024040210van_apptime=20181024040209mall_taxno=6050883331va_date=20181031235959va_name=운영자]
+1024-040820.952 - 20683 - SR36OAO48K97OqTt - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810241540321665527]+log_level=[3]+opt=[0]
+1024-040820.959 - 20683 - SR36OAO48K97OqTt - MSG : PG_SERVER_CONN__SUCC
+1024-040820.969 - 20683 - SR36OAO48K97OqTt - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1024-040821.143 - 20683 - SR36OAO48K97OqTt - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1024-040821.143 - 20683 - SR36OAO48K97OqTt - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201810241540321665527tno=20181024412238van_txid=DP002018102476538447amount=118600res_tax_mny=107818res_free_mny=0res_vat_mny=10782res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79004861472440bankcode=BK11app_time=20181024040821van_apptime=20181024040821mall_taxno=6050883331va_date=20181031235959va_name=운영자]
+1024-042126.229 - 21333 - SR36OAO4LQ97OqTt - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810241540322449110]+log_level=[3]+opt=[0]
+1024-042126.237 - 21333 - SR36OAO4LQ97OqTt - MSG : PG_SERVER_CONN__SUCC
+1024-042126.247 - 21333 - SR36OAO4LQ97OqTt - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1024-042126.395 - 21333 - SR36OAO4LQ97OqTt - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1024-042126.395 - 21333 - SR36OAO4LQ97OqTt - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201810241540322449110tno=20181024412522van_txid=DP002018102476538569amount=91100res_tax_mny=82818res_free_mny=0res_vat_mny=8282res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=기업은행depositor=한국사이버결제account=48002504697026bankcode=BK03app_time=20181024042126van_apptime=20181024042126mall_taxno=6050883331va_date=20181031235959va_name=운영자]
+1024-042450.029 - 21429 - SR36OAO4Oo97OqTt - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810241540322637216]+log_level=[3]+opt=[0]
+1024-042450.043 - 21429 - SR36OAO4Oo97OqTt - MSG : PG_SERVER_CONN__SUCC
+1024-042450.053 - 21429 - SR36OAO4Oo97OqTt - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1024-042450.204 - 21429 - SR36OAO4Oo97OqTt - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1024-042450.204 - 21429 - SR36OAO4Oo97OqTt - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201810241540322637216tno=20181024412597van_txid=DP002018102476538608amount=57000res_tax_mny=51818res_free_mny=0res_vat_mny=5182res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79004861449465bankcode=BK11app_time=20181024042450van_apptime=20181024042450mall_taxno=6050883331va_date=20181031235959va_name=운영자]
+1024-042832.761 - 21633 - SR36OAO4SW97OqTt - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810241540322876291]+log_level=[3]+opt=[0]
+1024-042832.770 - 21633 - SR36OAO4SW97OqTt - MSG : PG_SERVER_CONN__SUCC
+1024-042832.780 - 21633 - SR36OAO4SW97OqTt - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1024-042832.931 - 21633 - SR36OAO4SW97OqTt - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1024-042832.931 - 21633 - SR36OAO4SW97OqTt - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201810241540322876291tno=20181024412686van_txid=DP002018102476538653amount=152400res_tax_mny=138545res_free_mny=0res_vat_mny=13855res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=기업은행depositor=한국사이버결제account=48002516997497bankcode=BK03app_time=20181024042833van_apptime=20181024042833mall_taxno=6050883331va_date=20181031235959va_name=운영자]
+1024-043258.487 - 21840 - SR36OAO4Ww97OqTt - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810241540323144094]+log_level=[3]+opt=[0]
+1024-043258.492 - 21840 - SR36OAO4Ww97OqTt - MSG : PG_SERVER_CONN__SUCC
+1024-043258.503 - 21840 - SR36OAO4Ww97OqTt - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1024-043258.660 - 21840 - SR36OAO4Ww97OqTt - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1024-043258.660 - 21840 - SR36OAO4Ww97OqTt - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201810241540323144094tno=20181024412780van_txid=DP002018102476538704amount=63700res_tax_mny=57909res_free_mny=0res_vat_mny=5791res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79004861599396bankcode=BK11app_time=20181024043259van_apptime=20181024043259mall_taxno=6050883331va_date=20181031235959va_name=운영자]
+1024-044303.101 - 22324 - SR36OAO4h31Ptrhn - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810241540323715590]+log_level=[3]+opt=[0]
+1024-044303.111 - 22324 - SR36OAO4h31Ptrhn - MSG : PG_SERVER_CONN__SUCC
+1024-044303.121 - 22324 - SR36OAO4h31Ptrhn - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1024-044303.769 - 22324 - SR36OAO4h31Ptrhn - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1024-044303.769 - 22324 - SR36OAO4h31Ptrhn - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR36OAO4h31Ptrhnpay_method=PACAorder_no=ORDER201810241540323715590card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드card_no=9441170000007786mcht_taxno=1138521083mall_taxno=6050883331ca_order_id=ORDER201810241540323715590tno=18927404935699amount=7500card_mny=7500coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20181024044304van_apptime=20181024044304app_no=30001232bizx_numb=103001131quota=00noinf=Npg_txid=1024044304MP01CEB6CECG0000000075000030001232use_point=0res_tax_flag=TG01res_tax_mny=6818res_free_mny=0res_vat_mny=682partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1join_cd=0000]

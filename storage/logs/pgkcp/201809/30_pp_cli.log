@@ -1,0 +1,10 @@
+0930-043649.618 -  3290 - SR36O9U4an97OqTt - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201809301538249787835]+log_level=[3]+opt=[0]
+0930-043649.656 -  3290 - SR36O9U4an97OqTt - MSG : PG_SERVER_CONN__SUCC
+0930-043649.666 -  3290 - SR36O9U4an97OqTt - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0930-043649.822 -  3290 - SR36O9U4an97OqTt - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0930-043649.822 -  3290 - SR36O9U4an97OqTt - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201809301538249787835tno=20180930313501van_txid=DP002018093073950832amount=20000res_tax_mny=18181res_free_mny=0res_vat_mny=1819res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79005869342848bankcode=BK11app_time=20180930043650van_apptime=20180930043650mall_taxno=6050883331va_date=20181007235959va_name=운영자]
+0930-044237.580 -  3569 - SR36O9U4gb97OqTt - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201809301538250123777]+log_level=[3]+opt=[0]
+0930-044237.588 -  3569 - SR36O9U4gb97OqTt - MSG : PG_SERVER_CONN__SUCC
+0930-044237.598 -  3569 - SR36O9U4gb97OqTt - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0930-044237.758 -  3569 - SR36O9U4gb97OqTt - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0930-044237.759 -  3569 - SR36O9U4gb97OqTt - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201809301538250123777tno=20180930313644van_txid=DP002018093073950905amount=95000res_tax_mny=86363res_free_mny=0res_vat_mny=8637res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79005869301433bankcode=BK11app_time=20180930044238van_apptime=20180930044238mall_taxno=6050883331va_date=20181007235959va_name=운영자]

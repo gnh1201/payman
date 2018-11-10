@@ -1,0 +1,5 @@
+1014-022009.212 -  8269 - SR36OAE2K91Ptrhn - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201810141539451132719]+log_level=[3]+opt=[0]
+1014-022009.236 -  8269 - SR36OAE2K91Ptrhn - MSG : PG_SERVER_CONN__SUCC
+1014-022009.246 -  8269 - SR36OAE2K91Ptrhn - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1014-022009.995 -  8269 - SR36OAE2K91Ptrhn - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1014-022009.996 -  8269 - SR36OAE2K91Ptrhn - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR36OAE2K91Ptrhnpay_method=PACAorder_no=ORDER201810141539451132719card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드card_no=9441170000007786mcht_taxno=1138521083mall_taxno=6050883331ca_order_id=ORDER201810141539451132719tno=18917320365780amount=8500card_mny=8500coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20181014022009van_apptime=20181014022009app_no=30001218bizx_numb=103001131quota=00noinf=Npg_txid=1014022009MP01DJ4UR9TV0000000085000030001218use_point=0res_tax_flag=TG01res_tax_mny=7727res_free_mny=0res_vat_mny=773partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1join_cd=0000]

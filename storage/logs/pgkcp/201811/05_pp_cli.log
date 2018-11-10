@@ -1,0 +1,30 @@
+1105-041353.898 - 28584 - SR36OB54Dr3R1D4K - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201811051541358698056]+log_level=[3]+opt=[0]
+1105-041353.904 - 28584 - SR36OB54Dr3R1D4K - MSG : PG_SERVER_CONN__SUCC
+1105-041353.914 - 28584 - SR36OB54Dr3R1D4K - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1105-041354.559 - 28584 - SR36OB54Dr3R1D4K - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1105-041354.559 - 28584 - SR36OB54Dr3R1D4K - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR36OB54Dr3R1D4Kpay_method=PACAorder_no=ORDER201811051541358698056card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드card_no=4854800000003805mcht_taxno=1138521083mall_taxno=6050883331ca_order_id=ORDER201811051541358698056tno=18559504677005amount=8500card_mny=8500coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20181105041354van_apptime=20181105041354app_no=30001249bizx_numb=103001131quota=00noinf=Npg_txid=1105041354MP01CDSAL4DO0000000085000030001249use_point=0res_tax_flag=TG01res_tax_mny=7727res_free_mny=0res_vat_mny=773partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1join_cd=0000]
+1105-043036.284 - 30736 - SR36OB54Ua3R1D4K - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201811051541359763054]+log_level=[3]+opt=[0]
+1105-043036.293 - 30736 - SR36OB54Ua3R1D4K - MSG : PG_SERVER_CONN__SUCC
+1105-043036.303 - 30736 - SR36OB54Ua3R1D4K - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1105-043036.655 - 30736 - SR36OB54Ua3R1D4K - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1105-043036.655 - 30736 - SR36OB54Ua3R1D4K - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR36OB54Ua3R1D4Kpay_method=PACAorder_no=ORDER201811051541359763054card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드card_no=4854800000003805mcht_taxno=1138521083mall_taxno=6050883331ca_order_id=ORDER201811051541359763054tno=18559504692101amount=7500card_mny=7500coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20181105043036van_apptime=20181105043036app_no=30001250bizx_numb=103001131quota=00noinf=Npg_txid=1105043036MP01DBSB6LEL0000000075000030001250use_point=0res_tax_flag=TG01res_tax_mny=6818res_free_mny=0res_vat_mny=682partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1join_cd=0000]
+1105-044716.835 - 32632 - SR36OB54lG6Di2mo - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201811051541360817236]+log_level=[3]+opt=[0]
+1105-044716.848 - 32632 - SR36OB54lG6Di2mo - MSG : PG_SERVER_CONN__SUCC
+1105-044716.859 - 32632 - SR36OB54lG6Di2mo - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1105-044717.015 - 32632 - SR36OB54lG6Di2mo - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1105-044717.015 - 32632 - SR36OB54lG6Di2mo - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201811051541360817236tno=20181105834712van_txid=DP002018110577720998amount=86000res_tax_mny=78181res_free_mny=0res_vat_mny=7819res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79004860357435bankcode=BK11app_time=20181105044717van_apptime=20181105044716mall_taxno=6050883331va_date=20181112235959va_name=운영자]
+1105-045425.675 -   905 - SR36OB54sP3R1D4K - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201811051541361203361]+log_level=[3]+opt=[0]
+1105-045425.684 -   905 - SR36OB54sP3R1D4K - MSG : PG_SERVER_CONN__SUCC
+1105-045425.694 -   905 - SR36OB54sP3R1D4K - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1105-045426.143 -   905 - SR36OB54sP3R1D4K - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1105-045426.143 -   905 - SR36OB54sP3R1D4K - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR36OB54sP3R1D4Kpay_method=PACAorder_no=ORDER201811051541361203361card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드card_no=4854800000003805mcht_taxno=1138521083mall_taxno=6050883331ca_order_id=ORDER201811051541361203361tno=18559504711044amount=8500card_mny=8500coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20181105045426van_apptime=20181105045426app_no=30001251bizx_numb=103001131quota=00noinf=Npg_txid=1105045426MP01DBSC18VK0000000085000030001251use_point=0res_tax_flag=TG01res_tax_mny=7727res_free_mny=0res_vat_mny=773partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1join_cd=0000]
+1105-050011.695 -  1710 - SR36OB550B3R1D4K - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201811051541361561518]+log_level=[3]+opt=[0]
+1105-050011.711 -  1710 - SR36OB550B3R1D4K - MSG : PG_SERVER_CONN__SUCC
+1105-050011.721 -  1710 - SR36OB550B3R1D4K - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1105-050011.875 -  1710 - SR36OB550B3R1D4K - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1105-050011.875 -  1710 - SR36OB550B3R1D4K - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201811051541361561518tno=20181105835016van_txid=DP002018110577721149amount=1000res_tax_mny=909res_free_mny=0res_vat_mny=91res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79004860355529bankcode=BK11app_time=20181105050012van_apptime=20181105050012mall_taxno=6050883331va_date=20181112235959va_name=운영자]
+1105-051058.689 -  2890 - SR36OB55Aw3R1D4K - MSG : TX_START - site_cd=[SR36O]+tx_cd=[00100000]+ordr_idxx=[ORDER201811051541362215697]+log_level=[3]+opt=[0]
+1105-051058.697 -  2890 - SR36OB55Aw3R1D4K - MSG : PG_SERVER_CONN__SUCC
+1105-051058.707 -  2890 - SR36OB55Aw3R1D4K - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+1105-051058.866 -  2890 - SR36OB55Aw3R1D4K - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+1105-051058.866 -  2890 - SR36OB55Aw3R1D4K - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=pay_method=PAVCorder_no=ORDER201811051541362215697tno=20181105835282van_txid=DP002018110577721291amount=1000res_tax_mny=909res_free_mny=0res_vat_mny=91res_tax_flag=TG01escw_yn=Nvan_cd=SCWRbankname=농협중앙회depositor=한국사이버결제account=79004860373805bankcode=BK11app_time=20181105051059van_apptime=20181105051059mall_taxno=6050883331va_date=20181112235959va_name=운영자]
